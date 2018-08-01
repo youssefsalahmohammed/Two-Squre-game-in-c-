@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528433797 source:d:\my projects\two squre game in c++\main.cpp
+	<iostream>
+	<iomanip>
+
